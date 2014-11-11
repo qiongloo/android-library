@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 指定动画循环播放 -->
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+
+    <!-- 添加多个帧 -->
+    <item
+        android:drawable="@drawable/cnbpi_load1"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/cnbpi_load2"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/cnbpi_load3"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/cnbpi_load4"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/cnbpi_load5"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/cnbpi_load6"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/cnbpi_load7"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/cnbpi_load8"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/cnbpi_load9"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/cnbpi_load10"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/cnbpi_load11"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/cnbpi_load12"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/cnbpi_load13"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/cnbpi_load14"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/cnbpi_load15"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/cnbpi_load16"
+        android:duration="100"/>
+    
+</animation-list>
