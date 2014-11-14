@@ -10,14 +10,14 @@
 
     
     
-    <com.cnbpi.widget.SwipeListView
+    <com.qiongloo.widget.SwipeListView
         android:id="@+id/id_swpt"
         android:layout_width="match_parent"
     	android:layout_height="match_parent"
         
-        >
+        />
         
-    </com.cnbpi.widget.SwipeListView>
+
     
 
     
